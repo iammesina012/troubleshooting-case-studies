@@ -6,7 +6,7 @@ My goal is to continue expanding this portfolio by adding new scenarios as I gai
 
 ## Portfolio Contents
 
-| No. | Scenarios |
+| # | Scenarios |
 |-----|------------|
 | 01 | BSOD Troubleshooting
 | 02 | Windows 11 Clean Installation Using a Bootable USB
