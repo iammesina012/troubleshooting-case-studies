@@ -1,22 +1,22 @@
 # Desktop Support Portfolio
 
-This repository contains real Windows and desktop support scenarios that I worked on while troubleshooting my own devices. Each scenario documents the problem, the steps I took to investigate it, the solution, and the lessons I learned along the way.
+I created this repository to document the real troubleshooting experiences I've had while working on my own computer. Instead of only listing technical skills, I wanted to show my troubleshooting process, the tools I used, the solutions I tried, and the lessons I learned from each scenario.
 
-## Skills Demonstrated
-
-- Windows 11 Installation & Troubleshooting
-- Driver Updates & Troubleshooting
-- Software Installation
-- Basic Network Troubleshooting
+My goal is to continue expanding this portfolio by adding new scenarios as I gain more experience and solve real-world IT problems.
 
 ## Portfolio Contents
 
 | No. | Scenarios |
 |-----|------------|
 | 01 | BSOD Troubleshooting
-| 02 | Windows 11 Clean Installation
-| 03 | Driver Troubleshooting
-| 04 | Bluetooth Troubleshooting
-| 05 | Audio Troubleshooting
-| 06 | Windows Update Troubleshooting
-| 07 | Basic Network Troubleshooting
+| 02 | Windows 11 Clean Installation Using a Bootable USB
+| 03 | Windows 11 Post-Installation Setup
+| 04 | Windows Performance Troubleshooting for Gaming
+
+## Future Scenarios
+
+As I continue learning and gaining hands-on experience, I plan to add more real-world troubleshooting scenarios to this portfolio.
+
+Some topics I plan to explore include:
+
+- Basic Network Troubleshooting
