@@ -67,7 +67,17 @@ I also reviewed **Reliability Monitor**, which showed a history of repeated Wind
 
 ---
 
-### 3. Checked Windows system files
+### 3. Repaired the Windows image
+
+Next, I ran:
+
+`DISM /Online /Cleanup-Image /RestoreHealth`
+
+The command completed successfully and repaired the Windows component store.
+
+---
+
+### 4. Checked Windows system files
 
 To check if Windows had corrupted system files, I ran:
 
@@ -78,16 +88,6 @@ To check if Windows had corrupted system files, I ran:
 Windows Resource Protection did not find any integrity violations.
 
 Since SFC did not find any problems, I continued with other troubleshooting steps.
-
----
-
-### 4. Repaired the Windows image
-
-Next, I ran:
-
-`DISM /Online /Cleanup-Image /RestoreHealth`
-
-The command completed successfully and repaired the Windows component store.
 
 ---
 
