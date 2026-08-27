@@ -204,25 +204,3 @@ This confirmed that the issue was caused by poor RAM contact or seating rather t
 Cleaning, reseating, and swapping the RAM modules resolved the recurring BSODs. After this, the laptop remained stable during normal use, downloading files, and gaming.
 
 ---
-
-## Skills Demonstrated
-
-- Windows 11 Troubleshooting
-- BSOD Troubleshooting
-- Windows Log Analysis (Event Viewer & Reliability Monitor)
-- Windows System Repair (SFC & DISM)
-- SSD Health Checking
-- Safe Mode & Clean Boot Troubleshooting
-- Windows Recovery Environment (WinRE)
-- Windows 11 Clean Installation
-- RAM Reseating
-- Stability Testing
-
----
-
-## Lessons Learned
-
-- Troubleshooting is more effective when testing one possible cause at a time instead of trying multiple solutions at once.
-- Event Viewer and Reliability Monitor are useful starting points for investigating system crashes.
-- Windows tools such as SFC and DISM help check and repair system files but do not always identify the root cause.
-- If software troubleshooting does not solve the issue, hardware should also be investigated.
