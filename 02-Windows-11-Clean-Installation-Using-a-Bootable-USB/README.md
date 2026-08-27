@@ -207,21 +207,3 @@ The clean Windows installation using a bootable USB completed successfully after
 After installing Windows, I updated the system, installed the required drivers, and verified that the laptop was ready for normal use.
 
 ---
-
-## Skills Demonstrated
-
-- Windows 11 Installation
-- Bootable USB Creation
-- Windows Recovery Environment (WinRE)
-- Windows Partition Management
-- Driver Installation using Windows Update
-
----
-
-## Lessons Learned
-
-- The built-in Windows recovery options may not always complete successfully.
-- A bootable USB provides a reliable way to perform a clean Windows installation.
-- Always verify the correct installation drive before deleting partitions.
-- Checking the installation destination carefully helps prevent accidental data loss.
-- Installing Windows is only part of the process. Drivers, Windows updates, and device verification are also important before using the system.
