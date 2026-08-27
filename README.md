@@ -12,11 +12,3 @@ My goal is to continue expanding this portfolio by adding new scenarios as I gai
 | 02 | Windows 11 Clean Installation Using a Bootable USB
 | 03 | Windows 11 Post-Installation Setup
 | 04 | Windows Performance Troubleshooting for Gaming
-
-## Future Case Studies
-
-As I continue learning and gaining hands-on experience, I plan to add more real-world troubleshooting scenarios to this portfolio.
-
-Some topics I plan to explore include:
-
-- Basic Network Troubleshooting
