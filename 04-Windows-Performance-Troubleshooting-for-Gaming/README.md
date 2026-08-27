@@ -145,22 +145,3 @@ These changes helped a little, but they didn't completely fix the problem. The b
 Although the FPS drops still happened in some games, I was able to rule out many common software causes. At this point, I believed the next step would be hardware maintenance, such as cleaning the cooling system or replacing the thermal paste, so I ended the software troubleshooting there.
 
 ---
-
-## Skills Demonstrated
-
-- Gaming Performance Optimization
-- Performance Monitoring
-- HWMonitor
-- Graphics Driver Installation & Updates
-- NVIDIA Control Panel
-- Windows Power Plans
-
----
-
-## Lessons Learned
-
-- Monitoring temperatures and system usage helps identify possible performance bottlenecks.
-- Updating graphics drivers is an important troubleshooting step, but it does not always resolve performance issues.
-- Testing one change at a time makes it easier to understand which settings improve performance.
-- Matching the FPS limit to the monitor's refresh rate can improve frame consistency in some games.
-- If software troubleshooting does not fully resolve the issue, hardware maintenance may be the next area to investigate.
