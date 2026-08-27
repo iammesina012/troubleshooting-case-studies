@@ -126,20 +126,3 @@ The laptop was fully updated, the required drivers were installed, and Device Ma
 Although the BSOD returned after about a day of normal use, this confirmed that the Windows installation itself was not the cause of the problem. I continued troubleshooting, which eventually led me to identify the RAM as the actual cause of the crashes.
 
 ---
-
-## Skills Demonstrated
-
-- Driver Installation using Windows Update
-- Graphics Driver Installation (AMD Software: Adrenalin Edition & NVIDIA App)
-- Windows Driver Verification (Device Manager)
-- Windows 11 Post-Installation Setup
-
----
-
-## Lessons Learned
-
-- Windows Update can install most of the drivers needed after a clean Windows installation.
-- USB tethering is a useful temporary solution when the Wi-Fi driver is not yet available.
-- Device Manager is a simple way to verify that drivers have been installed successfully.
-- Some drivers, such as AMD and NVIDIA graphics drivers, still need to be installed manually using the manufacturer's official software.
-- Successfully reinstalling and setting up Windows does not always resolve system problems. If the issue continues, further troubleshooting is needed to identify the real cause.
